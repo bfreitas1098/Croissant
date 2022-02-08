@@ -22,6 +22,10 @@ img {
   color: blue;
 }
 
+.email:hover {
+  cursor: pointer;
+}
+
 @media (max-width: 576px) {
   h1,
   h3,
